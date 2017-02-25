@@ -1,0 +1,17 @@
+E:\project\WPFFacebookApp\WPFFacebookApp\bin\Debug\WPFFacebookApp.exe
+E:\project\WPFFacebookApp\WPFFacebookApp\bin\Debug\WPFFacebookApp.pdb
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\WPFFacebookApp.csprojResolveAssemblyReference.cache
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\MainWindow.g.cs
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\App.g.cs
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\WPFFacebookApp_MarkupCompile.cache
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\WPFFacebookApp_MarkupCompile.lref
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\MainWindow.baml
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\WPFFacebookApp.g.resources
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\WPFFacebookApp.Properties.Resources.resources
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\WPFFacebookApp.csproj.GenerateResource.Cache
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\WPFFacebookApp.exe
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\WPFFacebookApp.pdb
+E:\project\WPFFacebookApp\WPFFacebookApp\bin\Debug\Facebook.dll
+E:\project\WPFFacebookApp\WPFFacebookApp\bin\Debug\Facebook.xml
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\Home.g.cs
+E:\project\WPFFacebookApp\WPFFacebookApp\obj\Debug\Home.baml
